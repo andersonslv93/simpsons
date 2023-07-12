@@ -1,0 +1,38 @@
+* {
+    background-color: yellow;
+    padding: 0;
+    font-family: "Tsukimi Rounded", sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: lightblue;}
+
+img {
+    width: 350px;
+}
+
+.l1 {
+    display: inline-block;
+}
+
+.l2 {
+    display: inline-block;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    margin: 35px;
+}
+
+figcaption{
+    text-align: center;
+    margin: 40px;
+    padding: 20px;
+    background-color: lightblue;
+}
